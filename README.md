@@ -1,2 +1,2 @@
 # TicTacToegame
-Tictactoe game project javascript , html and css.
+TicTacToe game project Javascript , HTML and CSS.
